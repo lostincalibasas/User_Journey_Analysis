@@ -1,2 +1,2 @@
-# User_Journey_Analysis
-Customer Journey Analytics  
+# Customer_Journey_Analytics
+Analyze users behavior 
