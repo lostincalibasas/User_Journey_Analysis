@@ -52,7 +52,7 @@ The last sessions are cluttered, with many log-ins and checkouts. But among the 
 ## File Descriptions <a name="files"></a>
 
  - `User_journey_raw.csv` provides the raw data about the customer's journey before preprocessing
- - `User_journey.csv`` provides the customer's data after preprocessing
+ - `User_journey.csv` provides the customer's data after preprocessing
  - `User_journey_preprocessing.ipynb` contains the preprocessing fucntions needed to clean the dataset
  - `User_journey_analysis.ipynb` contains the data analysis process of customer's journey
  
