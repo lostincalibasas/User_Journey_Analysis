@@ -6,6 +6,7 @@
 4. [Project Structure](#structure)
 3. [Results](#results)
 5. [Insights](#insights)
+6. [File Descriptions](#files)
 
 ## Overview<a name="overview"></a>
 
@@ -46,6 +47,15 @@ Another interesting observation is that monthly users often check out the career
 The preprocessing options depend on what you want to take away from the analysis, and many combinations can be tried. Regarding which sessions to group, the first few sessions can indicate the users’ assumptions and objectives before getting to know the platform. This can help you identify the general behavior of the user.
 
 The last sessions are cluttered, with many log-ins and checkouts. But among the clutter, you can see if a page convinced the user to purchase. These previous sessions may include the tipping point. As for pages to be removed, the apparent candidates are ‘Log in,’ ‘Checkout,’ and ‘Sign up.’
+
+ 
+## File Descriptions <a name="files"></a>
+
+ - `User_journey_raw.csv` provides the raw data about the customer's journey before preprocessing
+ - `User_journey.csv`` provides the customer's data after preprocessing
+ - `User_journey_preprocessing.ipynb` contains the preprocessing fucntions needed to clean the dataset
+ - `User_journey_analysis.ipynb` contains the data analysis process of customer's journey
+ 
 
 
 
